@@ -1,0 +1,121 @@
+[{
+        "id": "react",
+        "name": "React",
+        "category": "Frontend",
+        "description": "A declarative, component-based JavaScript library for building modern user interfaces.",
+        "icon": "https://icon.icepanel.io/Technology/svg/React.svg",
+        "rating": 4.9,
+        "difficulty": "Beginner-Friendly",
+        "badge": "Popular"
+    },
+    {
+        "id": "vue",
+        "name": "Vue.js",
+        "category": "Frontend",
+        "description": "An approachable and flexible framework for building modern web interfaces.",
+        "icon": "https://icon.icepanel.io/Technology/svg/Vue.js.svg",
+        "rating": 4.8,
+        "difficulty": "Beginner-Friendly",
+        "badge": "Versatile"
+    },
+    {
+        "id": "svelte",
+        "name": "Svelte",
+        "category": "Frontend",
+        "description": "A modern framework that compiles components into highly optimized JavaScript.",
+        "icon": "https://icon.icepanel.io/Technology/svg/Svelte.svg",
+        "rating": 4.8,
+        "difficulty": "Intermediate",
+        "badge": "Fast"
+    },
+    {
+        "id": "nextjs",
+        "name": "Next.js",
+        "category": "Frontend",
+        "description": "A React framework for building fast and scalable full-stack web applications.",
+        "icon": "https://icon.icepanel.io/Technology/svg/Next.js.svg",
+        "rating": 4.9,
+        "difficulty": "Intermediate",
+        "badge": "Modern"
+    },
+    {
+        "id": "nodejs",
+        "name": "Node.js",
+        "category": "Backend",
+        "description": "A JavaScript runtime designed for building scalable server-side applications.",
+        "icon": "https://icon.icepanel.io/Technology/svg/Node.js.svg",
+        "rating": 4.8,
+        "difficulty": "Intermediate",
+        "badge": "Essential"
+    },
+    {
+        "id": "express",
+        "name": "Express.js",
+        "category": "Backend",
+        "description": "A lightweight and flexible Node.js framework for building web servers and APIs.",
+        "icon": "https://icon.icepanel.io/Technology/svg/Express.svg",
+        "rating": 4.7,
+        "difficulty": "Intermediate",
+        "badge": "Popular"
+    },
+    {
+        "id": "postgresql",
+        "name": "PostgreSQL",
+        "category": "Database",
+        "description": "A powerful open-source relational database system known for reliability and performance.",
+        "icon": "https://icon.icepanel.io/Technology/svg/PostgresSQL.svg",
+        "rating": 4.9,
+        "difficulty": "Intermediate",
+        "badge": "Top SQL"
+    },
+    {
+        "id": "mongodb",
+        "name": "MongoDB",
+        "category": "Database",
+        "description": "A flexible document-oriented database designed for modern application development.",
+        "icon": "https://icon.icepanel.io/Technology/svg/MongoDB.svg",
+        "rating": 4.8,
+        "difficulty": "Beginner-Friendly",
+        "badge": "Popular"
+    },
+    {
+        "id": "javascript",
+        "name": "JavaScript",
+        "category": "Language",
+        "description": "A versatile programming language that powers interactive experiences across the web.",
+        "icon": "https://icon.icepanel.io/Technology/svg/JavaScript.svg",
+        "rating": 4.9,
+        "difficulty": "Beginner-Friendly",
+        "badge": "Essential"
+    },
+    {
+        "id": "typescript",
+        "name": "TypeScript",
+        "category": "Language",
+        "description": "A strongly typed programming language that extends JavaScript for scalable applications.",
+        "icon": "https://icon.icepanel.io/Technology/svg/TypeScript.svg",
+        "rating": 4.9,
+        "difficulty": "Intermediate",
+        "badge": "Essential"
+    },
+    {
+        "id": "tailwind",
+        "name": "Tailwind CSS",
+        "category": "Styling",
+        "description": "A utility-first CSS framework for quickly creating modern and responsive interfaces.",
+        "icon": "https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg",
+        "rating": 4.9,
+        "difficulty": "Beginner-Friendly",
+        "badge": "Modern"
+    },
+    {
+        "id": "docker",
+        "name": "Docker",
+        "category": "DevOps",
+        "description": "A platform for developing, shipping, and running applications using containers.",
+        "icon": "https://icon.icepanel.io/Technology/svg/Docker.svg",
+        "rating": 4.9,
+        "difficulty": "Intermediate",
+        "badge": "Containers"
+    }
+]
