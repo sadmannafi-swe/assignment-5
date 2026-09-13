@@ -1,3 +1,5 @@
+import bannerStack from "../assets/banner-stack.png";
+
 const Hero = () => {
   return (
     <section className="hero" id="home">
@@ -27,7 +29,7 @@ const Hero = () => {
 
         <div className="hero-image-wrapper">
           <img
-            src="/src/assets/banner-stack.png"
+            src={bannerStack}
             alt="Development technology stack"
             className="hero-image"
           />
