@@ -8,9 +8,7 @@ Users can browse technologies, view their details, add technologies to their sta
 
 ## 🌐 Live Site
 
-*Live Website:* YOUR_LIVE_SITE_URL
-
-*GitHub Repository:* YOUR_GITHUB_REPOSITORY_URL
+*Live Website:* [https://assignment-5-drab-two.vercel.app/]
 
 ---
 
